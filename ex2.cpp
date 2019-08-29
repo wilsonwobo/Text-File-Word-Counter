@@ -1,10 +1,3 @@
-/*
- * ex2.cpp
- *
- *  Created on: 18 Nov 2017
- *      Author: Wilson Wobo
- */
-
 using namespace std;
 
 #include "ReadWords.h"
