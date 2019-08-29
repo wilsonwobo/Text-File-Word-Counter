@@ -1,10 +1,3 @@
-/*
- * ReadWords.cpp
- *
- *  Created on: 12 Nov 2017
- *      Author: Wilson Wobo
- */
-
 using namespace std;
 
 #include <cstdlib>  // for exit()
