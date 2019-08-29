@@ -10,12 +10,13 @@
 ## How to use the Program
 * Firstly, double-click on the compiled *WordCounter.exe* file.
 * Then, you will be prompted to input the name of the file containing the words you wish to search (via a command prompt).
-* Input the file name *words.txt* into the command prompt.  
+* Input the filename *words.txt* into the command prompt.  
 **NOTE: A different *.txt* file can be used but its contents must be of a similar format to *words.txt*.**  
 * Next, you will be prompted to input the name of the file you wish to compare to the search words.
-* Input the file name *story.txt* into the command prompt.   
+* Input the filename *story.txt* into the command prompt.   
 **NOTE: A different *.txt* file can be used also.**
 * The contents of this search will then be output in a bar-chart format, proceeded by the words that could not be found.
+**NOTE: The contents of this search will also be output into a seperate file named *BarChart.txt*.**
 
 ## Example Runtime
 <pre>
