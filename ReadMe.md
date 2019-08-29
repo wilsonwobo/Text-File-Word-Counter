@@ -9,7 +9,7 @@
 
 ## How to use the Program
 * Firstly, double-click on the compiled *WordCounter.exe* file.
-Then, you will be prompted to input the name of the file containing the words you wish to search (via a command prompt).
+* Then, you will be prompted to input the name of the file containing the words you wish to search (via a command prompt).
 * Input the file name *words.txt* into the command prompt.  
 **NOTE: A different *.txt* file can be used but its contents must be of a similar format to *words.txt*.**  
 * Next, you will be prompted to input the name of the file you wish to compare to the search words.
