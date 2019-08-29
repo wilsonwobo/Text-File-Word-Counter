@@ -1,10 +1,3 @@
-/*
- * FormBar.h
- *
- *  Created on: 12 Nov 2017
- *      Author: Wilson Wobo
- */
-
 #ifndef FORMBAR_H_
 #define FORMBAR_H_
 
