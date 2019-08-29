@@ -1,7 +1,3 @@
-/**
- * ReadWords Interface for Assignment 1
- */
-
 #ifndef READWORDS_H
 #define READWORDS_H
 /**
